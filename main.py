@@ -1,6 +1,6 @@
-# =====================================
+
 # CASE FILE 09 - MAIN PROGRAM
-# =====================================
+
 
 from suspects import suspects, show_suspects
 
